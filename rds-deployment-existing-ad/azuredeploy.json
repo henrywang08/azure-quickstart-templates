@@ -54,12 +54,13 @@
             "type": "string",
             "allowedValues": [
                 "2012-R2-Datacenter",
+                "2019-Datacenter",
                 "2016-Datacenter"
             ],
             "metadata": {
                 "description": "Windows server SKU"
             },
-            "defaultValue": "2016-Datacenter"
+            "defaultValue": "2019-Datacenter"
         },
         "numberOfRdshInstances": {
             "type": "int",
